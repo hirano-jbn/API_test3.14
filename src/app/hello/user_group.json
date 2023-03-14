@@ -1,0 +1,13 @@
+{
+    "list":[{
+    "data.user_group_id":"Sample_User_Group_Id_1",
+    "data.user_group_name":"Sample_User_Group_Name_1",
+    "data.person_responsible":"userA",
+    "data.children":[{
+        "user_id": "Sample_User_Id_1",
+        "user_name": "Sample_User_Name_1",
+        "role_id": "Sample_Role_Id_1",
+        "approval_id": "Sample_Approval_Id_1"
+      }]}],
+    "profile": { "type": "string", "name": "typicode" }
+}

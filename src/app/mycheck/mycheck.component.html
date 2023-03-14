@@ -1,0 +1,19 @@
+<p>-----</p>
+
+<!-- <input type="text" [formControl]="input"> -->
+<button (click)="doAction()">click</button>
+
+<p>{{getData()}}</p>
+<table>
+    <tr>
+        <th>a</th>
+        <th>b</th>
+        <th>c</th>
+    </tr>
+    <tr *ngFor="let item of getList()">
+        <td>{{item.user_group_id}}</td>
+        <td>{{item.user_group_name}}</td>
+        <!-- <td>{{item.person_responsible}}</td>
+        <td>{{item.children}}</td> -->
+    </tr>
+</table>

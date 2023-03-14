@@ -1,0 +1,14 @@
+[{
+    "user_id": "Sample_User_Id_1",
+    "user_name":"Sample_User_Name_1",
+    "role_id":"Sample_Role_Id_1",
+    "approval_id": "Sample_Approval_Id_1",
+    "children": "[]"
+  },
+  {
+    "user_id": "Sample_User_Id_2",
+    "user_name": "Sample_User_Name_2",
+    "role_id": "Sample_Role_Id_2",
+    "approval_id": "Sample_Approval_Id_2",
+    "children": "[]"
+}]
